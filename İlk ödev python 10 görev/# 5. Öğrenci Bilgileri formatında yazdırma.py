@@ -1,0 +1,7 @@
+print("********************************")
+print("*       Öğrenci Bilgileri      *")
+print("********************************")
+print("* Adı      : Yağız             *")
+print("* Soyadı   : Gemici            *")
+print("* Numarası : 12345             *")
+print("********************************")
